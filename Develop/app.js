@@ -133,8 +133,6 @@ const createEngineer = () => {
     });
 };
 
-createEngineer();
-
 const createIntern = () => {
   inquirer
     .prompt([
@@ -170,8 +168,6 @@ const createIntern = () => {
       makeTeam();
     });
 };
-
-createIntern();
 
 const buildTeam = () => {
   if (!fs.existsSync(OUTPUT_DIR)) {
