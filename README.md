@@ -8,3 +8,6 @@ This web application will allow the user to build a team of Management, and choo
 <br />
 <br />
 ![](./questionDemo.png)
+<br />
+<br />
+![](./teamDemo.png)
